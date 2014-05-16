@@ -10,6 +10,6 @@ public class scr : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+		Debug.Log ("cube!");
 	}
 }
